@@ -1,0 +1,3 @@
+= Scoolee Architecture
+
+This site documents Scoolee architecture.

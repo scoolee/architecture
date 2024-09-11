@@ -1,6 +1,8 @@
 workspace {
     
     !identifiers hierarchical
+
+    !docs ../docs/architecture.adoc
     
     model {
         systemAdmin = person "System Admin" "Administers system functions"
